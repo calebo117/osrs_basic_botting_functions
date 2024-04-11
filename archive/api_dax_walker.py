@@ -44,8 +44,8 @@ def post_http_path(start, end, api_key, api_secret):
     #print(stats)
     return result
 
-API_KEY = "sub_DPjXXzL5DeSiPf"
-#API_KEY = "sub_DPjcfqN4YkIxm8"
+API_KEY = ""
+#API_KEY = ""
 API_SECRET = "PUBLIC-KEY"
 start = (3223,3218,0)
 #print(start[0])
